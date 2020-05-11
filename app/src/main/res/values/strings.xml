@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Irish Football Tournament</string>
+    <string name="button_location">Location</string>
+    <string name="activity_maps">Map</string>
+
+    <string-array name="counties">
+        <item>Waterford fc</item>
+        <item>Cork Fc</item>
+        <item>Limerick City</item>
+        <item>Kerry Rangers</item>
+        <item>Tipperary Park</item>
+        <item>Galway United</item>
+        <item>Dublin Fc</item>
+        <item>Kilkenny Stars</item>
+        <item>Wexford United</item>
+        <item>Sligo Stars</item>
+    </string-array>
+
+    <string-array name="waterford_states">
+        <item>Martin Mtamba</item>
+        <item>Kaka</item>
+        <item>Roldiho</item>
+        <item>Pere</item>
+        <item>Neymar</item>
+        <item>Dilda</item>
+        <item>Rorbeto</item>
+        <item>Rolnadiho</item>
+        <item>Rivaldo</item>
+        <item>Gustavo</item>
+    </string-array>
+
+    <string-array name="cork_states">
+        <item>Zidane</item>
+        <item>Podga</item>
+        <item>Henry</item>
+        <item>Kante</item>
+        <item>Martial</item>
+        <item>Grezman</item>
+        <item>Sissoko</item>
+        <item>Viera</item>
+        <item>mbappe</item>
+        <item>Benzema</item>
+    </string-array>
+
+    <string-array name="Limerick_states">
+        <item>Rooney</item>
+        <item>Lampard</item>
+        <item>Scores</item>
+        <item>Beckam</item>
+        <item>Kane</item>
+        <item>Alli</item>
+        <item>Rashford</item>
+        <item>Sterring</item>
+        <item>Gerrald</item>
+        <item>Stones</item>
+    </string-array>
+
+    <string-array name="Kerry_states">
+        <item>Kelvin DE</item>
+        <item>Hazard</item>
+        <item>Lukako</item>
+        <item>Mertens</item>
+        <item>Witsel</item>
+        <item>Galba</item>
+        <item>Batsuyayi</item>
+        <item>Vettongan</item>
+        <item>Maura</item>
+        <item>Tanganga</item>
+    </string-array>
+
+    <string-array name="Tipperary_states">
+        <item>Willian</item>
+        <item>Pedro</item>
+        <item>Giroid</item>
+        <item>Purisic</item>
+        <item>Terry</item>
+        <item>Drogba</item>
+        <item>Barrack</item>
+        <item>Robben</item>
+        <item>Deco</item>
+        <item>Duff</item>
+    </string-array>
+
+    <string-array name="Galway_states">
+        <item>Ronaldo c</item>
+        <item>Rio</item>
+        <item>Neville</item>
+        <item>Van persia</item>
+        <item>De gea</item>
+        <item>Nani</item>
+        <item>Maguel</item>
+        <item>Lingard</item>
+        <item>Daniel James</item>
+        <item>Depay</item>
+    </string-array>
+
+    <string-array name="Dublin_states">
+        <item>Messi</item>
+        <item>Luisito</item>
+        <item>Dembele</item>
+        <item>coutiho</item>
+        <item>Rodriguiz</item>
+        <item>Pique</item>
+        <item>Iniesta</item>
+        <item>Xavi</item>
+        <item>Eto</item>
+        <item>Bigga</item>
+    </string-array>
+
+    <string-array name="Kilkenny_states">
+        <item>Cavani</item>
+        <item>Thiago</item>
+        <item>Cisse</item>
+        <item>Herreira</item>
+        <item>Di Maria</item>
+        <item>Mosses</item>
+        <item>Dybala</item>
+        <item>Matiudi</item>
+        <item>Costa</item>
+        <item>Higguin</item>
+    </string-array>
+
+    <string-array name="Wexford_states">
+        <item>Ramos</item>
+        <item>Morata</item>
+        <item>Luis</item>
+        <item>Perreira</item>
+        <item>Diego</item>
+        <item>Saul</item>
+        <item>Vidal</item>
+        <item>vinious jr</item>
+        <item>luis Banda</item>
+        <item>Lulu</item>
+    </string-array>
+
+    <string-array name="Sligo_states">
+        <item>John Bobo</item>
+        <item>Jay</item>
+        <item>Philo</item>
+        <item>Maya</item>
+        <item>Dre</item>
+        <item>Osman</item>
+        <item>Ross</item>
+        <item>Brian Nd</item>
+        <item>Brian M</item>
+        <item>xhaka</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
